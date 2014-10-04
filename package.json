@@ -1,0 +1,9 @@
+{
+  "name": "test-vinyl-fs",
+  "scripts": {
+    "test": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
